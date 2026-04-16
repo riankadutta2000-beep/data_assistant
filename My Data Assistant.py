@@ -47,7 +47,7 @@ def data_assistant(query, df):
         st.warning("Try asking about product, region, or trend.")
 
 # UI
-st.title("💬 AI Data Assistant (Free Version)")
+st.title("💬 AI Data Assistant (Paid Version)")
 
 query = st.text_input("Ask your question:")
 
